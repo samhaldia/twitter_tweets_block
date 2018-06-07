@@ -1,4 +1,4 @@
-This module helps enable Twitter Tweets in blocks of your Drupal 8 Website
+This module enables Twitter Tweets block in Drupal 8
 
 Prerequisites: Twitter Account
 
