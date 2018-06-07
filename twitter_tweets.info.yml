@@ -1,0 +1,5 @@
+name: Twitter Tweets
+description: Pulls twitter tweets and display them in a block
+type: module
+core: 8.x
+project: 'twitter_tweets'
